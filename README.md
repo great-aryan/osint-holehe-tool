@@ -9,13 +9,9 @@ git clone https://github.com/great-aryan/osint-holehe-tool.git
 cd osint-holehe-tool
 ```
 
-### 2. Install Holehe using Github
+### 2. Install Holehe using Github and ### With PyPI
 ```bash
 python setup.py install
-```
-### With PyPI
-
-```bash
 pip3 install holehe
 ```
 
