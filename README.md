@@ -3,9 +3,11 @@
 ## Setup Guide
 
 ### 1. Clone the Repository
-`git clone https://github.com/great-aryan/osint-holehe-tool.git`
+```bash
+git clone https://github.com/great-aryan/osint-holehe-tool.git
 
-`cd osint-holehe-tool`
+cd osint-holehe-tool
+```
 
 ### 2. Install Holehe using Github
 `python setup.py install`
@@ -23,8 +25,3 @@
 
 ### With Github
 
-```bash
-git clone https://github.com/megadose/holehe.git
-cd holehe/
-python3 setup.py install
-```
