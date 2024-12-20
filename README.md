@@ -10,18 +10,21 @@ cd osint-holehe-tool
 ```
 
 ### 2. Install Holehe using Github
-`python setup.py install`
-
-
-### 3. Install Dependencies
-`pip install -r requirements.txt`
-
-### 4. Run the Application
-`python main_holeheV0.1.py`
-
+```bash
+python setup.py install
+```
 ### With PyPI
 
-```pip3 install holehe```
+```bash
+pip3 install holehe
+```
 
-### With Github
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
+### 4. Run the Application
+```bash
+python main_holeheV0.1.py
+```
