@@ -11,9 +11,20 @@
 `python setup.py install`
 
 
-### 4. Install Dependencies
+### 3. Install Dependencies
 `pip install -r requirements.txt`
 
-### 5. Run the Application
+### 4. Run the Application
 `python main_holeheV0.1.py`
 
+### With PyPI
+
+```pip3 install holehe```
+
+### With Github
+
+```bash
+git clone https://github.com/megadose/holehe.git
+cd holehe/
+python3 setup.py install
+```
