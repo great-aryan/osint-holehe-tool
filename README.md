@@ -6,7 +6,7 @@
 
 - run main_holeheV0.1.py
 
-# Project Name
+# **Holehe OSINT tool - Aryan**
 
 ## Setup Guide
 
