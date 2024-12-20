@@ -7,18 +7,12 @@
 `cd yourproject`
 
 ### 2. Install Holehe using Github
-\```bash
 `python setup.py install`
-\```
 
 
 ### 4. Install Dependencies
-\```bash
-pip install -r requirements.txt
-\```
+`pip install -r requirements.txt`
 
 ### 5. Run the Application
-\```bash
 `python main_holeheV0.1.py`
-\```
 
