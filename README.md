@@ -3,9 +3,9 @@
 ## Setup Guide
 
 ### 1. Clone the Repository
-`git clone https://github.com/yourusername/yourproject.git`
+`git clone https://github.com/great-aryan/osint-holehe-tool.git`
 
-`cd yourproject`
+`cd osint-holehe-tool`
 
 ### 2. Install Holehe using Github
 `python setup.py install`
